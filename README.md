@@ -2,8 +2,6 @@
 
 ## Mini-TP 5 — Aprendizaje federado
 
-Notebook: [`mini-tp5/mini_tp5_federado.ipynb`](mini-tp5/mini_tp5_federado.ipynb)
-
 Simulación de FedAvg con 5 clientes (2 por ronda, 20 rondas) sobre el dataset `digits`,
 comparada contra el entrenamiento centralizado.
 
